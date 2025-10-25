@@ -1,16 +1,22 @@
-## Hi there 👋
+ Hi, I'm Ayesha Saleem
 
-<!--
-**ayeshasaleem846/ayeshasaleem846** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I'm a passionate **Front-End Developer** from Lahore, Pakistan.  
+✨ I enjoy turning ideas into interactive, responsive, and user-friendly web designs.
 
-Here are some ideas to get you started:
+### 🚀 Skills
+- HTML, CSS, Bootstrap  
+- JavaScript (ES6+), React.js  
+- Responsive Design, UI/UX basics  
+- Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+React.js | Advanced JavaScript |
+
+### 💼 Projects
+- Password Generator
+- Calculator App
+- E-Commerce Website (Full Front-End)
+
+### 📫 Connect with me
+- **Email:** ayeshasalem56@gmail.com  
+- **LinkedIn:** [Ayesha Saleem](https://www.linkedin.com/in/your-link)  
